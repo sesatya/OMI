@@ -8,6 +8,10 @@ namespace GitSampleProject.Controllers
 {
     public class HomeController : Controller
     {
+        /// <summary>
+        /// Summary 155
+        /// </summary>
+        /// <returns></returns>
         public ActionResult Index()
         {
             return View();
