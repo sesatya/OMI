@@ -85,5 +85,21 @@ namespace GitSampleProject.Controllers
                 return View();
             }
         }
+
+        // POST: Account/Delete/5
+        [HttpPost]
+        public WorkIem2 Create(int id, FormCollection collection)
+        {
+            try
+            {
+                // TODO: Add delete logic here
+
+                return RedirectToAction("Index");
+            }
+            catch
+            {
+                return View();
+            }
+        }
     }
 }
