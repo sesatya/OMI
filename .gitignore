@@ -5,6 +5,8 @@
 /UpgradeLog.htm
 /GitSampleProject/obj/Debug/CoreCompileInputs.cache
 /*/Web.config
-.vs/GitSampleProject/v15/*.*
+.vs/
+packages/
 Web.config
 *.gitattributes
+
