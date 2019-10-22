@@ -151,8 +151,10 @@ ServiceFabricBackup/
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
 
-
-/GitSampleProject/obj/Debug/CoreCompileInputs.cache
 [Ww]eb.config
+[Ww]eb.*.config
+[Pp]ackages.config
+/GitSampleProject/obj/Debug/CoreCompileInputs.cache
+
 [Aa]pp.config
 
