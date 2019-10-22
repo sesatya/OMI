@@ -2,4 +2,14 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/UpgradeLog.htm
+/GitSampleProject/obj/Debug/CoreCompileInputs.cache
+#/*/Web.config#
+.vs/GitSampleProject/v15/*.*
+#Web.config#
+*.gitattributes
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
 /ClassLibrary1/obj/Debug
