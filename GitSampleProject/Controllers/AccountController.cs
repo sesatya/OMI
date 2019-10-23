@@ -104,7 +104,7 @@ namespace GitSampleProject.Controllers
 
         // POST: Account/Delete/5
         [HttpPost]
-        public WorkIem3 Create(int id, FormCollection collection)
+        public WorkIem4 Create(int id, FormCollection collection)
         {
             try
             {
